@@ -1,1 +1,94 @@
+{
+  "name": "Orange Default",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#000000",
+    "sideBar.background": "#121212",
+    "sideBarSectionHeader.background": "#1E1E1E",
+    "sideBarTitle.foreground": "#ff7043",
+
+    "panel.background": "#121212",
+
+    "statusBar.background": "#ff7043",
+    "statusBar.foreground": "#ffffff",
+    "statusBar.noFolderBackground": "#ff7043",
+    "statusBar.debuggingBackground": "#ff7043",
+
+    "titleBar.activeBackground": "#121212",
+    "titleBar.activeForeground": "#ff7043",
+    "titleBar.inactiveBackground": "#1E1E1E",
+    "titleBar.inactiveForeground": "#cccccc",
+
+    "activityBar.background": "#121212",
+    "activityBar.foreground": "#ff7043",
+    "activityBarBadge.background": "#ff7043",
+
+    "terminal.background": "#000000",
+
+    "editorGroupHeader.tabsBackground": "#1E1E1E",
+    "tab.activeBackground": "#000000",
+    "tab.inactiveBackground": "#121212",
+    "tab.activeForeground": "#ff7043",
+    "tab.inactiveForeground": "#cccccc",
+
+    "editorCursor.foreground": "#ff7043",
+    "editor.selectionBackground": "#ff704380"
+  },
+  "tokenColors": [
+    {
+      "scope": ["entity.name.function", "variable.other.property"],
+      "settings": {
+        "foreground": "#fd6b02"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#fcfcfc"
+      }
+    },
+    {
+      "scope": ["storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#0ed403"
+      }
+    },
+    {
+      "scope": ["string", "punctuation.definition.string"],
+      "settings": {
+        "foreground": "#02b6fd"
+      }
+    },
+    {
+      "scope": ["keyword.control"],
+      "settings": {
+        "foreground": "#D2B48C"
+      }
+    },
+    {
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#ff0000"
+      }
+    },
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#ABB2BF"
+      }
+    },
+    {
+      "scope": ["entity.name.variable"],
+      "settings": {
+        "foreground": "#ffe600"
+      }
+    },
+    {
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#00eeff"
+      }
+    }
+  ]
+}
 
