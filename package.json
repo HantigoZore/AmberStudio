@@ -1,9 +1,9 @@
 {
-  "name": "AmberStudio",
+  "name": "amber-studio",
   "displayName": "AmberStudio",
   "publisher": "HantigoZore",
   "description": "A refined collection of Visual Studio Code themes crafted with care and inspired by the warmth of amber.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -11,9 +11,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Orange Default",
+        "label": "Orange-Default",
         "uiTheme": "vs-dark",
-        "path": "./Themes/Orange-Default.json"
+        "path": "./themes/Orange-Default.json"
       }
     ]
   },
