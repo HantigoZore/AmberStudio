@@ -1,0 +1,27 @@
+{
+  "name": "AmberStudio",
+  "displayName": "AmberStudio",
+  "publisher": "HantigoZore",
+  "description": "A refined collection of Visual Studio Code themes crafted with care and inspired by the warmth of amber.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orange Default",
+        "uiTheme": "vs-dark",
+        "path": "./Themes/Orange-Default.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HantigoZore/AmberStudio.git"
+  },
+  "icon": "images/preview.png",
+  "keywords": ["theme", "dark", "orange", "custom"],
+  "license": "MIT"
+}
