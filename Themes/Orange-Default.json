@@ -19,6 +19,7 @@
     "activityBar.foreground": "#ff7043",
     "activityBarBadge.background": "#ff7043",
     "activityBarBadge.foreground": "#ffffff",
+    "activityBar.activeBorder": "#ff7043",
     "activityBar.border": "#121212",
 
     "statusBar.background": "#ff7043",
@@ -26,15 +27,18 @@
     "statusBar.noFolderBackground": "#ff7043",
     "statusBar.debuggingBackground": "#ff7043",
     "statusBar.border": "#ff7043",
+    "statusBarItem.prominentBackground": "#ff7043",
 
     "titleBar.activeBackground": "#121212",
     "titleBar.activeForeground": "#ff7043",
     "titleBar.inactiveBackground": "#1E1E1E",
     "titleBar.inactiveForeground": "#cccccc",
     "titleBar.border": "#121212",
+    "focusBorder": "#ff7043",
 
     "panel.background": "#121212",
-    "panel.border": "#121212",
+    "panel.border": "#ff7043",
+    "panelTitle.activeBorder": "#ff7043",
 
     "terminal.background": "#000000",
     "terminal.foreground": "#ffffff",
@@ -43,8 +47,10 @@
     "tab.activeForeground": "#ff7043",
     "tab.inactiveBackground": "#121212",
     "tab.inactiveForeground": "#cccccc",
-    "tab.border": "#1E1E1E",
+    "tab.border": "#ff7043",
+    "tab.activeBorderTop": "#ff7043",
     "editorGroupHeader.tabsBackground": "#1E1E1E",
+    "editorGroup.border": "#ff7043",
 
     "button.background": "#ff7043",
     "button.foreground": "#ffffff",
@@ -58,19 +64,28 @@
     "input.foreground": "#ffffff",
     "input.border": "#ff7043",
     "input.placeholderForeground": "#888888",
+    "inputOption.activeBorder": "#ff7043",
 
     "list.activeSelectionBackground": "#ff7043",
     "list.activeSelectionForeground": "#ffffff",
     "list.hoverBackground": "#222222",
     "list.inactiveSelectionBackground": "#333333",
-    "list.inactiveSelectionForeground": "#ffffff",
+    "list.inactiveSelectionForeground": "#ff7043",
     "list.focusBackground": "#ff704380",
 
     "notification.background": "#121212",
     "notification.foreground": "#ffffff",
     "notification.buttonBackground": "#ff7043",
     "notification.buttonForeground": "#ffffff",
-    "notification.buttonHoverBackground": "#ff9966"
+    "notification.buttonHoverBackground": "#ff9966",
+    "pickerGroup.foreground": "#ff7043",
+    "quickInput.background": "#121212",
+    "quickInput.foreground": "#ffffff",
+    "scrollbarSlider.background": "#ff704333",
+    "scrollbarSlider.hoverBackground": "#ff704344",
+    "scrollbarSlider.activeBackground": "#ff704366",
+    "textLink.foreground": "#ff7043",
+    "textLink.activeForeground": "#ff9966"
   },
   "tokenColors": [
     {
