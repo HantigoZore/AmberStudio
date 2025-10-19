@@ -192,8 +192,7 @@
 		},
 		{
 			"scope": [
-				"string constant.other.placeholder",
-				"entity.name.variable"
+				"string constant.other.placeholder"
 			],
 			"settings": {
 				"foreground": "#FFFFFF"
@@ -873,16 +872,6 @@
 		},
 		{
 			"scope": [
-				"entity.name.variable",
-				"variable",
-				"variable.other"
-			],
-			"settings": {
-				"foreground": "#ffe600"
-			}
-		},
-		{
-			"scope": [
 				"string.quoted.other.lt-gt.include.cpp",
 				"meta.preprocessor.include.cpp",
 				"source.cpp"
@@ -928,18 +917,6 @@
 			],
 			"settings": {
 				"foreground": "#F69D50"
-			}
-		},
-		{
-			"scope": [
-				"variable",
-				"declaration",
-				"entity.name.variable",
-				"entity.name.variable"
-			],
-			"settings": {
-				"foreground": "#ffe600",
-				"fontStyle": "bold"
 			}
 		}
 	],
