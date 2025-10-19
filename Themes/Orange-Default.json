@@ -574,7 +574,7 @@
 		{
 			"scope": [
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#82AAFF"
@@ -812,6 +812,162 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
+		},
+		{
+			"scope": [
+				"entity.name.function",
+				"variable.other.property"
+			],
+			"settings": {
+				"foreground": "#fd6b02"
+			}
+		},
+		{
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#fcfcfc"
+			}
+		},
+		{
+			"scope": [
+				"storage.type",
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#0ed403"
+			}
+		},
+		{
+			"scope": [
+				"string",
+				"punctuation.definition.string"
+			],
+			"settings": {
+				"foreground": "#02b6fd"
+			}
+		},
+		{
+			"scope": [
+				"keyword.control"
+			],
+			"settings": {
+				"foreground": "#D2B48C"
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator"
+			],
+			"settings": {
+				"foreground": "#ff0000"
+			}
+		},
+		{
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#ABB2BF"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.variable",
+				"variable",
+				"variable.other"
+			],
+			"settings": {
+				"foreground": "#ffe600"
+			}
+		},
+		{
+			"scope": [
+				"string.quoted.other.lt-gt.include.cpp",
+				"meta.preprocessor.include.cpp",
+				"source.cpp"
+			],
+			"settings": {
+				"foreground": "#02B6FD"
+			}
+		},
+		{
+			"scope": [
+				"storage.type.built-in.primitive.cpp",
+				"storage.type.primitive.cpp",
+				"source.cpp"
+			],
+			"settings": {
+				"foreground": "#0ED403"
+			}
+		},
+		{
+			"scope": [
+				"variable.parameter.cpp",
+				"meta.parameter.cpp",
+				"meta.function.definition.parameters",
+				"meta.head.function.definition.cpp",
+				"meta.function.definition.cpp",
+				"source.cpp"
+			],
+			"settings": {
+				"foreground": "#00EEFF"
+			}
+		},
+		{
+			"scope": [
+				"module",
+				"entity.name.namespace",
+				"entity.name",
+				"support.class",
+				"support.orther.namespace.use.php",
+				"meta.use.php",
+				"support.other.namespace.php",
+				"markup.changed.git_gutter",
+				"support.type.sys-types"
+			],
+			"settings": {
+				"foreground": "#F69D50"
+			}
+		},
+		{
+			"scope": [
+				"variable",
+				"declaration",
+				"entity.name.variable",
+				"entity.name.variable"
+			],
+			"settings": {
+				"foreground": "#ffe600",
+				"fontStyle": "bold"
+			}
 		}
-	]
+	],
+	"semanticTokenColors": {
+		"variable.declaration": {
+			"foreground": "#ffe600",
+			"fontStyle": "bold"
+		},
+		"variable": {
+			"foreground": "#ffe600"
+		},
+		"module": {
+			"foreground": "#F69D50"
+		},
+		"entity.name.namespace": {
+			"foreground": "#F69D50"
+		},
+		"entity.name": {
+			"foreground": "#F69D50"
+		},
+		"support.class": {
+			"foreground": "#F69D50"
+		},
+		"support.other.namespace.php": {
+			"foreground": "#F69D50"
+		},
+		"markup.changed.git_gutter": {
+			"foreground": "#F69D50"
+		}
+	}
 }
