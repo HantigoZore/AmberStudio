@@ -6,10 +6,10 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.70+-blue.svg)
 
-**AmberStudio** is a modern dark theme for **Visual Studio Code** featuring a bold **orange and black** base, complemented with multiple vibrant accent colors. Designed for developers who want a visually striking and comfortable coding environment.
+**AmberStudio** is a modern dark theme for **Visual Studio Code** featuring a bold **orange and black** base, complemented with multiple vibrant accent colors. Now, AmberStudio includes **6 new themes**: Amber Brown, Green, Purple, Red, White, Yellow, and Blue. Designed for developers who want a visually striking and comfortable coding environment.
 
 **Author:** HantigoZore  
-**Version:** 1.0.0
+**Version:** 1.1.0
 
 ---
 
@@ -34,6 +34,7 @@
 ## ⚡ Features
 
 - Dark theme with **bold orange and black primary palette**.  
+- **6 new accent themes**: Amber Brown, Green, Purple, Red, White, Yellow, Blue.  
 - Vibrant accent colors for better **syntax readability**.  
 - Supports popular languages: Python, JavaScript, C/C++, HTML, CSS, PHP, Java, Rust, and more.  
 - Improves visibility of **comments, strings, functions, variables, and operators**.  
@@ -50,13 +51,14 @@
 2. Go to **Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X` on Mac).  
 3. Search for **"AmberStudio"**.  
 4. Click **Install** and activate via **Preferences → Color Theme → AmberStudio**.
+
 ---
 
 ## 🔧 How to Use
 
 1. Open **Preferences → Color Theme**.  
-2. Select **AmberStudio**.  
-3. Enjoy the bold orange and black color scheme with enhanced syntax highlights.
+2. Select your preferred AmberStudio theme: Amber Brown, Green, Purple, Red, White, Yellow, or Blue.  
+3. Enjoy the bold colors with enhanced syntax highlights.
 
 ---
 
