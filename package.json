@@ -3,7 +3,7 @@
   "displayName": "AmberStudio",
   "publisher": "HantigoZore",
   "description": "A refined collection of Visual Studio Code themes crafted with care and inspired by the warmth of amber.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.75.0"
   },
