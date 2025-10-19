@@ -11,9 +11,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Orange-Default",
+        "label": "Amber-Orange",
         "uiTheme": "vs-dark",
-        "path": "./themes/Orange-Default.json"
+        "path": "./themes/Amber-Orange-Default.json"
+      },
+      {
+        "label": "Amber-Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amber-Blue.json"
+      },
+      {
+        "label": "Amber-Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amber-Green.json"
+      },
+      {
+        "label": "Amber-Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amber-Red.json"
       }
     ]
   },
