@@ -13,7 +13,7 @@
       {
         "label": "Amber-Orange",
         "uiTheme": "vs-dark",
-        "path": "./themes/Amber-Orange-Default.json"
+        "path": "./themes/Amber-Orange.json"
       },
       {
         "label": "Amber-Blue",
@@ -29,6 +29,26 @@
         "label": "Amber-Red",
         "uiTheme": "vs-dark",
         "path": "./themes/Amber-Red.json"
+      },
+      {
+        "label": "Amber-Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amber-Purple.json"
+      },
+      {
+        "label": "Amber-Brown",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amber-Brown.json"
+      },
+      {
+        "label": "Amber-Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amber-Yellow.json"
+      },
+      {
+        "label": "Amber-White",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amber-White.json"
       }
     ]
   },
