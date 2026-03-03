@@ -54,6 +54,11 @@
         "label": "Amber-Fiery",
         "uiTheme": "vs-dark",
         "path": "./themes/Amber-Fiery.json"
+      },
+{
+        "label": "Amber-Fiery-White",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amber-Fiery-White.json"
       }
     ]
   },
