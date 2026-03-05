@@ -51,14 +51,54 @@
         "path": "./themes/Amber-White.json"
       },
       {
-        "label": "Amber-Fiery",
+        "label": "Amber-IkarOS",
         "uiTheme": "vs-dark",
-        "path": "./themes/Amber-Fiery.json"
+        "path": "./themes/Amber-IkarOS.json"
       },
-{
-        "label": "Amber-Fiery-White",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Amber-Fiery-White.json"
+      {
+        "label": "Amber-IkarOS-White",
+        "uiTheme": "vs",
+        "path": "./themes/Amber-IkarOS-White.json"
+      },
+      {
+        "label": "Amber-Blue-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Amber-Blue-Light.json"
+      },
+      {
+        "label": "Amber-Brown-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Amber-Brown-Light.json"
+      },
+      {
+        "label": "Amber-Green-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Amber-Green-Light.json"
+      },
+      {
+        "label": "Amber-Orange-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Amber-Orange-Light.json"
+      },
+      {
+        "label": "Amber-Purple-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Amber-Purple-Light.json"
+      },
+      {
+        "label": "Amber-Red-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Amber-Red-Light.json"
+      },
+      {
+        "label": "Amber-Dark-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Amber-Dark-Light.json"
+      },
+      {
+        "label": "Amber-Yellow-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Amber-Yellow-Light.json"
       }
     ]
   },
