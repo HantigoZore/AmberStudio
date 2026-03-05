@@ -6,14 +6,16 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.70+-blue.svg)
 
-**AmberStudio** is a modern dark theme for **Visual Studio Code** featuring a bold **orange and black** base, complemented with multiple vibrant accent colors. Now, AmberStudio includes **6 new themes**: Amber Brown, Green, Purple, Red, White, Yellow, and Blue. Designed for developers who want a visually striking and comfortable coding environment.
+**AmberStudio** is a modern theme collection for **Visual Studio Code** featuring a bold **orange and black** design with multiple vibrant accent colors.
 
-**Author:** HantigoZore  
-**Version:** 1.1.0
+The theme pack now includes both **dark and light variants**, allowing developers to switch between comfortable dark environments and clean light interfaces while keeping the same visual identity.
+
+**Author:** HantigoZore
+**Version:** 1.2.0
 
 ---
 
-## 🎨 Screenshots
+# 🎨 Screenshots
 
 ### Python Code
 
@@ -31,68 +33,130 @@
 
 ---
 
-## ⚡ Features
+# ⚡ Features
 
-- Dark theme with **bold orange and black primary palette**.  
-- **6 new accent themes**: Amber Brown, Green, Purple, Red, White, Yellow, Blue.  
-- Vibrant accent colors for better **syntax readability**.  
-- Supports popular languages: Python, JavaScript, C/C++, HTML, CSS, PHP, Java, Rust, and more.  
-- Improves visibility of **comments, strings, functions, variables, and operators**.  
-- Designed for a **comfortable and modern coding experience**.  
-- Lightweight and fast, no performance impact.
+* Bold **orange and black base palette** designed for long coding sessions.
+* Multiple **accent color variations**.
+* **Dark and light theme variants**.
+* Light themes follow the format **`Amber-Color-White`**.
+* New **Amber-IkarOS** theme inspired by the **IkarOS OS project**.
+* Improved readability for:
 
----
-
-## 💻 Installation
-
-### Quick Install via Marketplace
-
-1. Open VS Code.  
-2. Go to **Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X` on Mac).  
-3. Search for **"AmberStudio"**.  
-4. Click **Install** and activate via **Preferences → Color Theme → AmberStudio**.
+  * comments
+  * strings
+  * functions
+  * variables
+  * operators
+* Supports many programming languages:
+  **Python, JavaScript, C/C++, HTML, CSS, PHP, Java, Rust, and more.**
+* Lightweight and optimized for performance.
 
 ---
 
-## 🔧 How to Use
+# 🎨 Available Themes
 
-1. Open **Preferences → Color Theme**.  
-2. Select your preferred AmberStudio theme: Amber Brown, Green, Purple, Red, White, Yellow, or Blue.  
-3. Enjoy the bold colors with enhanced syntax highlights.
+## Dark Themes
 
----
+* Amber Brown
+* Amber Green
+* Amber Purple
+* Amber Red
+* Amber White
+* Amber Yellow
+* Amber Blue
+* **Amber IkarOS**
 
-## 💡 Tips & Recommendations
+## Light Themes
 
-- Pair with **Material Icon Theme** for a cohesive interface.  
-- Optimized for **dark mode** but works well on light backgrounds.  
-- Recommended fonts: **Fira Code, JetBrains Mono, Consolas** for best readability.  
-- Explore different accent colors in settings to match your workflow.
+Light versions of the main themes are included:
 
----
+* Amber Brown White
+* Amber Green White
+* Amber Purple White
+* Amber Red White
+* Amber White White
+* Amber Yellow White
+* Amber Blue White
+* **Amber IkarOS White**
 
-## 📌 Acknowledgements
-
-- Inspired by the [Github dark theme](https://github.com/primer/github-vscode-theme).  
-- Activity bar icons inspired by [Material Product Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons).  
-- Folder and file icons inspired by [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).  
-- Visual elements and accent colors designed by **HantigoZore**.
-
----
-
-## 🌟 Contributing
-
-We welcome contributions! Help improve AmberStudio:
-
-1. Fork the repository.  
-2. Create a new branch (`git checkout -b feature/your-feature`).  
-3. Make changes and submit a **pull request**.  
-
-> Suggestions, bug reports, and enhancements are always appreciated.
+> Light themes maintain the same accent colors while adapting the UI for bright environments.
 
 ---
 
-## 📄 License
+# 🔄 Recent Changes
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and share it while keeping credits to the author.
+### Version 1.2.0
+
+* Added **light versions** of the existing themes.
+* Added **Amber-IkarOS** theme.
+* Added **Amber-IkarOS-White** theme.
+* Renamed **Fiery theme → IkarOS** to align with the **IkarOS OS project**.
+
+---
+
+# 💻 Installation
+
+## Quick Install via Marketplace
+
+1. Open **VS Code**.
+2. Go to **Extensions** (`Ctrl + Shift + X`).
+3. Search for **AmberStudio**.
+4. Click **Install**.
+5. Activate it via **Preferences → Color Theme**.
+
+---
+
+# 🔧 How to Use
+
+1. Open **Preferences → Color Theme**.
+2. Select your preferred AmberStudio theme.
+3. Choose between **Dark** or **White** versions depending on your environment.
+
+---
+
+# 💡 Tips & Recommendations
+
+* Pair with **Material Icon Theme** for a cohesive interface.
+* Recommended fonts:
+
+  * **Fira Code**
+  * **JetBrains Mono**
+  * **Consolas**
+* Works great with **transparent terminals and modern VS Code setups**.
+
+---
+
+# 📌 Acknowledgements
+
+* Inspired by the **GitHub Dark Theme**
+* Icons inspired by **Material Product Icons**
+* File icons inspired by **Material Icon Theme**
+* Visual design and accents created by **HantigoZore**
+
+---
+
+# 🌟 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository.
+2. Create a branch:
+
+```
+git checkout -b feature/your-feature
+```
+
+3. Commit your changes.
+4. Submit a **Pull Request**.
+
+Bug reports, suggestions, and improvements are always appreciated.
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+You are free to **use, modify, and distribute** the project while keeping proper credit to the author.
+
+---
