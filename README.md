@@ -1,85 +1,185 @@
 # AmberStudio
 
 ![Version](https://img.shields.io/visual-studio-marketplace/v/HantigoZore.amber-studio)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/HantigoZore.amber-studio)
 ![Downloads](https://img.shields.io/visual-studio-marketplace/d/HantigoZore.amber-studio)
 ![Rating](https://img.shields.io/visual-studio-marketplace/stars/HantigoZore.amber-studio)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.70+-blue.svg)
 
-**AmberStudio** is a modern theme collection for **Visual Studio Code** featuring a bold **orange and black** design with multiple vibrant accent colors.
+**AmberStudio** is a modern **Visual Studio Code theme collection** built around a bold **orange and black color palette**, combined with vibrant accent variations.
 
-The theme pack now includes both **dark and light variants**, allowing developers to switch between comfortable dark environments and clean light interfaces while keeping the same visual identity.
+The theme pack now includes both **Dark and Light variants**, allowing developers to switch between focused dark environments and clean light interfaces while maintaining a consistent visual identity.
+
+AmberStudio also introduces the **IkarOS theme**, inspired by the **IkarOS OS project**, bringing a unique aesthetic designed to integrate with the broader IkarOS ecosystem.
 
 **Author:** HantigoZore
 **Version:** 1.2.0
 
 ---
 
-# 🎨 Screenshots
+# 🎨 Theme Preview
 
-### Python Code
-
-![Python Screenshot](images/Example2.png)
-
-### C++ Code
+### Dark Theme Example
 
 ![C++ Screenshot](images/Example1.png)
 
-### HTML/CSS Code
+### Light Theme Example
 
-![HTML/CSS Screenshot](images/Example3.png)
+![Python Screenshot](images/Example2.png)
 
-> AmberStudio highlights syntax and UI elements to provide clarity and focus while coding.
+### Web Development Example
+
+![HTML Screenshot](images/Example3.png)
+
+AmberStudio highlights syntax and UI elements to provide **clarity, contrast, and focus** during long coding sessions.
+
+---
+
+# 🚀 Why AmberStudio?
+
+AmberStudio was designed to provide:
+
+* Strong contrast for long coding sessions
+* A bold **orange-centered color palette**
+* Multiple accent color variations
+* Consistent **dark and light environments**
+* A modern and comfortable developer experience
+
+---
+
+# 🎨 Available Themes
+
+AmberStudio includes both **Dark** and **Light** theme variants.
+
+| Dark Themes      | Light Themes           |
+| ---------------- | ---------------------- |
+| Amber Brown      | Amber Brown White      |
+| Amber Green      | Amber Green White      |
+| Amber Purple     | Amber Purple White     |
+| Amber Red        | Amber Red White        |
+| Amber White      | Amber White White      |
+| Amber Yellow     | Amber Yellow White     |
+| Amber Blue       | Amber Blue White       |
+| **Amber IkarOS** | **Amber IkarOS White** |
+
+Light themes follow the naming pattern:
+
+```
+Amber-Color-White
+```
+
+They preserve the **accent colors** while adapting the interface for bright environments.
 
 ---
 
 # ⚡ Features
 
-* Bold **orange and black base palette** designed for long coding sessions.
-* Multiple **accent color variations**.
-* **Dark and light theme variants**.
-* Light themes follow the format **`Amber-Color-White`**.
-* New **Amber-IkarOS** theme inspired by the **IkarOS OS project**.
-* Improved readability for:
+* Modern **orange and black base palette**
+* Multiple **accent color variations**
+* **Dark and Light versions**
+* New **Amber-IkarOS theme**
+* Clean and readable **syntax highlighting**
+* Improved visibility for:
 
   * comments
   * strings
   * functions
   * variables
   * operators
-* Supports many programming languages:
-  **Python, JavaScript, C/C++, HTML, CSS, PHP, Java, Rust, and more.**
-* Lightweight and optimized for performance.
+* Lightweight and optimized for performance
 
 ---
 
-# 🎨 Available Themes
+# 🧠 Supported Languages
 
-## Dark Themes
+AmberStudio works well with many popular languages:
 
-* Amber Brown
-* Amber Green
-* Amber Purple
-* Amber Red
-* Amber White
-* Amber Yellow
-* Amber Blue
-* **Amber IkarOS**
+* Python
+* JavaScript
+* TypeScript
+* C / C++
+* Rust
+* Go
+* Java
+* HTML
+* CSS
+* PHP
+* JSON
+* Markdown
+* Shell scripting
 
-## Light Themes
+---
 
-Light versions of the main themes are included:
+# 💻 Installation
 
-* Amber Brown White
-* Amber Green White
-* Amber Purple White
-* Amber Red White
-* Amber White White
-* Amber Yellow White
-* Amber Blue White
-* **Amber IkarOS White**
+## Install from VS Code Marketplace
 
-> Light themes maintain the same accent colors while adapting the UI for bright environments.
+1. Open **Visual Studio Code**
+2. Go to **Extensions** (`Ctrl + Shift + X`)
+3. Search for:
+
+```
+AmberStudio
+```
+
+4. Click **Install**
+5. Activate it via:
+
+```
+Preferences → Color Theme
+```
+
+---
+
+## Install via Command Line
+
+You can also install AmberStudio using the VS Code CLI:
+
+```bash
+code --install-extension HantigoZore.amber-studio
+```
+
+---
+
+# 🔧 How to Use
+
+1. Open:
+
+```
+Preferences → Color Theme
+```
+
+2. Select any **AmberStudio theme**
+
+Examples:
+
+```
+Amber IkarOS
+Amber Green
+Amber Purple White
+```
+
+3. Start coding with enhanced readability.
+
+---
+
+# 💡 Tips & Recommendations
+
+For the best experience, consider using:
+
+### Recommended Fonts
+
+* **Fira Code**
+* **JetBrains Mono**
+* **Consolas**
+
+### Recommended Icon Themes
+
+* **Material Icon Theme**
+* **Material Product Icons**
+
+These combinations create a **modern and consistent development environment**.
 
 ---
 
@@ -87,69 +187,60 @@ Light versions of the main themes are included:
 
 ### Version 1.2.0
 
-* Added **light versions** of the existing themes.
-* Added **Amber-IkarOS** theme.
-* Added **Amber-IkarOS-White** theme.
-* Renamed **Fiery theme → IkarOS** to align with the **IkarOS OS project**.
+* Added **light variants** of the existing themes
+* Added **Amber-IkarOS** theme
+* Added **Amber-IkarOS-White** theme
+* Renamed **Fiery → IkarOS** to align with the **IkarOS OS project**
 
 ---
 
-# 💻 Installation
+# 🗺 Roadmap
 
-## Quick Install via Marketplace
+Planned improvements for future releases:
 
-1. Open **VS Code**.
-2. Go to **Extensions** (`Ctrl + Shift + X`).
-3. Search for **AmberStudio**.
-4. Click **Install**.
-5. Activate it via **Preferences → Color Theme**.
-
----
-
-# 🔧 How to Use
-
-1. Open **Preferences → Color Theme**.
-2. Select your preferred AmberStudio theme.
-3. Choose between **Dark** or **White** versions depending on your environment.
+* More accent color variations
+* Improved semantic highlighting
+* Terminal color improvements
+* Accessibility contrast improvements
+* Additional **IkarOS-inspired themes**
 
 ---
 
-# 💡 Tips & Recommendations
+# 🌌 Related Project
 
-* Pair with **Material Icon Theme** for a cohesive interface.
-* Recommended fonts:
+AmberStudio includes themes inspired by the **IkarOS OS project**, a custom Linux environment designed around a modern developer workflow.
 
-  * **Fira Code**
-  * **JetBrains Mono**
-  * **Consolas**
-* Works great with **transparent terminals and modern VS Code setups**.
+Future versions may include deeper **visual integration between AmberStudio and IkarOS**.
 
 ---
 
-# 📌 Acknowledgements
-
-* Inspired by the **GitHub Dark Theme**
-* Icons inspired by **Material Product Icons**
-* File icons inspired by **Material Icon Theme**
-* Visual design and accents created by **HantigoZore**
-
----
-
-# 🌟 Contributing
+# 🤝 Contributing
 
 Contributions are welcome.
 
-1. Fork the repository.
-2. Create a branch:
+If you want to improve AmberStudio:
+
+1. Fork the repository
+2. Create a feature branch
 
 ```
 git checkout -b feature/your-feature
 ```
 
-3. Commit your changes.
-4. Submit a **Pull Request**.
+3. Commit your changes
+4. Submit a **Pull Request**
 
 Bug reports, suggestions, and improvements are always appreciated.
+
+---
+
+# ⭐ Support
+
+If you like AmberStudio, consider:
+
+* Leaving a ⭐ on **GitHub**
+* Rating the theme on the **VS Code Marketplace**
+* Sharing it with other developers
 
 ---
 
